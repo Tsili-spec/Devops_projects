@@ -1,0 +1,12 @@
+Listening on 127.0.0.1:41277
+[2024-07-20 09:59:30] info Disposed of connection to running server.
+looking for token 134ca561-303a-4bf8-b91b-45c4ab26d933, got Some("134ca561-303a-4bf8-b91b-45c4ab26d933")
+[2024-07-20 09:59:31] info Checking /home/ubuntu/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /home/ubuntu/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
+[2024-07-20 09:59:31] info Downloading Visual Studio Code server -> /tmp/.tmpu89eMz/vscode-server-linux-x64.tar.gz
+[2024-07-20 09:59:33] info Starting server...
+[2024-07-20 09:59:33] info Server started
+[2024-07-20 10:00:24] info Disposed of connection to running server.
+looking for token 134ca561-303a-4bf8-b91b-45c4ab26d933, got Some("134ca561-303a-4bf8-b91b-45c4ab26d933")
+[2024-07-20 10:00:27] info Disposed of connection to running server.
+[2024-07-20 10:00:27] info Checking /home/ubuntu/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /home/ubuntu/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
+[2024-07-20 10:00:27] info Found running server (pid=1307)
