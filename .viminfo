@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1721470103,,"wq"
+|2,0,1721471268,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,32 @@
 # Registers:
 
 # File marks:
-'0  1  44  ~/terraform.sh
-|4,48,1,44,1721470103,"~/terraform.sh"
+'0  4  126  ~/ansible_installation.sh
+|4,48,4,126,1721471268,"~/ansible_installation.sh"
+'1  1  44  ~/terraform.sh
+|4,49,1,44,1721470103,"~/terraform.sh"
 
 # Jumplist (newest first):
+-'  4  126  ~/ansible_installation.sh
+|4,39,4,126,1721471268,"~/ansible_installation.sh"
+-'  1  0  ~/ansible_installation.sh
+|4,39,1,0,1721470969,"~/ansible_installation.sh"
+-'  1  44  ~/terraform.sh
+|4,39,1,44,1721470103,"~/terraform.sh"
 -'  1  44  ~/terraform.sh
 |4,39,1,44,1721470103,"~/terraform.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/ansible_installation.sh
+	*	1721471265	0
+	"	4	126
+	^	4	127
+	.	4	126
+	+	2	17
+	+	3	26
+	+	2	67
+	+	4	126
 
 > ~/terraform.sh
 	*	1721470101	0
